@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BhargavAnand333
-- 👀 I’m interested in Art, History, Football and Cricket (apart from coding)
-- 🌱 I’m currently learning Computer and Communicaton Engineering at Manipal Institute of Technology
-- 📫 How to reach me: Gmail: bhargav2003anand@gmail.com ; Instagram: @bhargav99anand
+- 🌱 I’m currently a sophomore pursuing Computer and Communicaton Engineering at Manipal Institute of Technology.
+- 📫 How to reach me: Gmail: bhargav2003anand@gmail.com ; Instagram: @bhargav_xa
 - 
 
 <!---
