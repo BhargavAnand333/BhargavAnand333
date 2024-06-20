@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BhargavAnand333
-- 🌱 I’m currently a sophomore pursuing Computer and Communicaton Engineering at Manipal Institute of Technology.
+- 🌱 I’m currently a junior pursuing Computer and Communicaton Engineering at Manipal Institute of Technology.
 - 📫 How to reach me: Gmail: bhargav2003anand@gmail.com ; Instagram: @bhargav_xa
 - 
 
